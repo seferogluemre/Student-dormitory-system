@@ -33,4 +33,4 @@ Personel de kendi işlemlerini yönetebilir.
 Öğrencilerin yurt ücretlerini kolayca ödemeleri için ödeme sistemi entegre edilmiştir.
 Bu sistem, yurt yönetimini daha verimli hale getiren bir platformdur. C# ve SQL ile geliştirilmiş olup, kullanıcı dostu bir arayüze sahiptir ve tüm işlemleri güvenli bir şekilde gerçekleştirir.
 
-Bu açıklama projede yer alan tüm temel işlevleri özetlemektedir. Başka bir şey eklem
+Bu açıklama projede yer alan tüm temel işlevleri özetlemektedir
